@@ -1,0 +1,8 @@
+
+hate_data_clas\.pkl
+
+hate_data_lm\.pkl
+
+models/*
+
+\.ipynb_checkpoints/Hatespeech classifer based on fastai lesson 3-checkpoint\.ipynb
